@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"atypeId":7,"description":"跨越时间和空间维度的书籍,上面铭刻着Envy的名字,\nEnvy使用后可以转换自己的能力.","etypeId":5,"traits":[{"code":43,"dataId":5,"value":1}],"iconIndex":186,"name":"真理之书","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":3,"description":"能感受到柴之力的波动,凝聚柴人力量的大衣.\n每回合自动恢复5%的TP.","etypeId":4,"traits":[{"code":22,"dataId":9,"value":0.05}],"iconIndex":138,"name":"柴毛大衣","note":"","params":[0,0,0,5,0,5,0,0],"price":0},
+{"id":3,"atypeId":6,"description":"王国护卫的标准配备,经过教会洗礼,\n可以同时抵御物理和魔法的攻击.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"镇国盾","note":"","params":[0,0,0,10,0,10,0,0],"price":50},
+{"id":4,"atypeId":1,"description":"以完整的龙皮裁剪而成的皮革甲,能提供20%的火焰抗性.\n但是因为繁杂的鳞片反而行动稍有不便.","etypeId":4,"traits":[{"code":11,"dataId":6,"value":0.8}],"iconIndex":135,"name":"龙革甲","note":"","params":[0,0,0,20,0,25,-4,0],"price":270},
+{"id":5,"atypeId":2,"description":"被风雨神赐福的符咒,可以召唤强大的雷电.\n装备后可以施展魔法\"五雷轰顶\".","etypeId":5,"traits":[{"code":43,"dataId":14,"value":1}],"iconIndex":188,"name":"御雷符","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
+{"id":6,"atypeId":3,"description":"随处可见的皮革甲,一般是用犀牛的皮制成.","etypeId":4,"traits":[],"iconIndex":135,"name":"皮革甲","note":"","params":[0,0,0,8,0,0,0,0],"price":30},
+{"id":7,"atypeId":8,"description":"端九村子里的传家宝,没有人能发挥它的真正力量.\n完全抵御土属性攻击.","etypeId":5,"traits":[{"code":11,"dataId":4,"value":0}],"iconIndex":123,"name":"传家宝","note":"","params":[50,50,6,6,6,6,6,6],"price":0},
+{"id":8,"atypeId":9,"description":"令人感到疑惑的伞,会怀疑其存在的真实性.\n完全抵御时间属性的攻击.","etypeId":5,"traits":[{"code":11,"dataId":9,"value":0}],"iconIndex":16,"name":"轮回伞","note":"","params":[0,0,15,30,50,50,0,0],"price":0},
+{"id":9,"atypeId":1,"description":"王国量产的士兵头盔,人手一顶.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"英雄盔","note":"","params":[0,0,0,20,0,0,-5,0],"price":70}
+]

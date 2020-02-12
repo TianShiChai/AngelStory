@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"animationId":6,"description":"王国量产的标准军用兵器,人手一把.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"护国剑","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":2},
+{"id":2,"animationId":16,"description":"用特殊的狼骨磨制而成,不仅锋利无比,还结实耐用.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"柴狼爪","note":"","params":[0,0,7,0,7,0,10,0],"price":25,"wtypeId":10},
+{"id":3,"animationId":0,"description":"小到切水果,大到刺杀皇帝,隐蔽性极好的匕首.\n回避率增加5%.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":1,"value":0.05}],"iconIndex":96,"name":"匕首","note":"","params":[0,0,2,0,0,0,13,0],"price":5,"wtypeId":1},
+{"id":4,"animationId":111,"description":"可以将任意金属杂物以高速射击敌人的枪炮,\n但是由于辐射污染,使用者需要耗费10%MP上限来操控它.","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":21,"dataId":1,"value":0.9}],"iconIndex":104,"name":"废土铁铳","note":"","params":[0,0,25,0,0,0,0,0],"price":150,"wtypeId":20},
+{"id":5,"animationId":6,"description":"利用魔法驱动的凶狠武器,\n但是由于辐射污染,使用者需要耗费20%MP上限来操控它.","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":21,"dataId":1,"value":0.8}],"iconIndex":117,"name":"废土电锯","note":"","params":[0,0,30,0,0,0,-10,0],"price":270,"wtypeId":22},
+{"id":6,"animationId":12,"description":"经过神明赐福的长戟,可以随时引出圣光之力.","etypeId":1,"traits":[{"code":31,"dataId":7,"value":0}],"iconIndex":107,"name":"天国戟","note":"","params":[0,0,15,4,15,10,-3,0],"price":320,"wtypeId":12},
+{"id":7,"animationId":67,"description":"据说是用火龙的脊梁骨制造而成.","etypeId":1,"traits":[{"code":31,"dataId":6,"value":0}],"iconIndex":101,"name":"火龙杖","note":"","params":[0,0,0,0,25,10,0,0],"price":530,"wtypeId":14},
+{"id":8,"animationId":111,"description":"大总统随身携带的狙击步枪,精确率极高.\n自带的火控设备可以辅助使用者追踪敌人位置.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":116,"name":"SUV-88","note":"","params":[0,0,40,0,0,0,0,0],"price":0,"wtypeId":21},
+{"id":9,"animationId":1,"description":"王国量产的标准军用兵器,人手一把.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":98,"name":"正义链锤","note":"","params":[0,0,12,0,0,0,-4,0],"price":65,"wtypeId":3},
+{"id":10,"animationId":16,"description":"王国量产的标准军用兵器,人手一把.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"审判爪","note":"","params":[0,0,3,4,0,0,7,0],"price":30,"wtypeId":10},
+{"id":11,"animationId":11,"description":"王国量产的标准军用兵器,人手一把.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"帝国弓","note":"","params":[0,0,5,0,0,0,3,3],"price":50,"wtypeId":7}
+]
